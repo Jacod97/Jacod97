@@ -40,17 +40,29 @@ MCP를 활용해 Git Profile 만들기
 
 ## 🔥 주요 프로젝트
 
-### LLM 프로젝트
-> 발표 자동화 시스템
-- 기술 스택: Python, PyTorch, Scikit-learn, FastAPI 
-- 구현 내용: LangChain을 활용한 발표하는 AI Agent 개발 
-- [repo link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
+### LLM + 멀티모달  
+> 발표 자동화 시스템  
+- 기술 스택: Python, LangChain, FastAPI, OpenAI GPT-4o, Google Gemini  
+- 구현 내용: PDF에서 텍스트와 이미지를 추출한 후, 페이지별로 발표 대본을 생성하고, 키워드 강조·음성 합성·질의응답까지 가능한 발표 자동화 시스템 구축  
+- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
 
-### 머신러닝
-> 산불 발생 예측 시스템템
-- 기술 스택: Python, Pandas, Scikit-learn
-- 구현 내용: 기상데이터와 인구 및 농지 데이터를 이용한 산불 발생 예측 시스템 개발
-- [repo link](https://github.com/Jacod97/Wanted_project/tree/main/Predict_fire_forest)
+### LLM + RAG 기반 사고 대응 시스템  
+> 건설공사 사고 대응 문구 자동 생성 시스템  
+- 기술 스택: Python, LangChain, SentenceTransformer, FAISS, Ollama, Gemma3:27b  
+- 구현 내용: 건설공사 사고 데이터를 기반으로 사고 원인을 분석하고, 유사 사고 사례를 검색하여 대응 문구를 자동 생성하는 RAG 기반 LLM 시스템 구축. GPU 가속화 및 대규모 배치 임베딩 처리로 효율성 향상.  
+- [Repository Link](https://github.com/Jacod97/DACON_Project/tree/main/DACON_Accident_Prevention)
+
+### 머신러닝  
+> 산불 발생 예측 시스템  
+- 기술 스택: Python, Pandas, Scikit-learn  
+- 구현 내용: 기상 정보, 인구 밀도, 농지 면적 데이터를 기반으로 산불 위험도를 예측하는 지도학습 기반 모델 개발  
+- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Predict_fire_forest)
+
+### 컴퓨터 비전 + Rule기반 분석  
+> 아동 미술 심리 분석 시스템 (HTP 기반)  
+- 기술 스택: Python, YOLOv8, OpenCV, Pandas  
+- 구현 내용: 아동이 그린 집·나무·사람 그림에서 객체를 감지하고, 위치·크기·구성 등 시각적 요소를 심리 해석 기준에 따라 분석하는 자동 진단 시스템 구축  
+- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/HTP_analysis)
 
 ## 🎓 교육
 
