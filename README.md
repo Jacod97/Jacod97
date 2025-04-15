@@ -44,7 +44,7 @@ MCP를 활용해 Git Profile 만들기
 > 발표 자동화 시스템
 - 기술 스택: Python, PyTorch, Scikit-learn, FastAPI 
 - 구현 내용: LangChain을 활용한 발표하는 AI Agent 개발 
-- [Repository Link]()
+- [https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent]()
 
 ### 머신러닝
 > 산불 발생 예측 시스템템
