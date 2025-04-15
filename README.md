@@ -44,26 +44,26 @@ MCP를 활용해 Git Profile 만들기
 > 발표 자동화 시스템
 - 기술 스택: Python, PyTorch, Scikit-learn, FastAPI 
 - 구현 내용: LangChain을 활용한 발표하는 AI Agent 개발 
-- [https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent]()
+- [repo link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
 
 ### 머신러닝
 > 산불 발생 예측 시스템템
 - 기술 스택: Python, Pandas, Scikit-learn
 - 구현 내용: 기상데이터와 인구 및 농지 데이터를 이용한 산불 발생 예측 시스템 개발
-- [Repository Link]()
+- [repo link](https://github.com/Jacod97/Wanted_project/tree/main/Predict_fire_forest)
 
 ## 🎓 교육
 
-- 컴퓨터 공학 학사 - [대학교명], [졸업연도]
-- [관련 교육 프로그램/부트캠프] - [기관명], [연도]
+- 토목공학과 학사 - [동아대학교], [2022년 졸업]
+- [Wanted Potenup DATA AI 양성과정] - [Wanted], [2024.12~2025.06]
 
 ## 📫 연락처
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일주소@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wotlr6894@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacod97)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://your-blog-url.com/)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://velog.io/@wotlr6894/posts)
 
 </div>
 
