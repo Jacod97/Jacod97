@@ -40,22 +40,16 @@ MCP를 활용해 Git Profile 만들기
 
 ## 🔥 주요 프로젝트
 
-### 이미지 분류 모델
-> 딥러닝을 활용한 이미지 분류 시스템
-- 기술 스택: PyTorch, OpenCV, Flask
-- 구현 내용: ResNet 아키텍처를 활용한 이미지 분류 모델 개발 및 웹 인터페이스 구현
+### LLM 프로젝트
+> 발표 자동화 시스템
+- 기술 스택: Python, PyTorch, Scikit-learn, FastAPI 
+- 구현 내용: LangChain을 활용한 발표하는 AI Agent 개발 
 - [Repository Link]()
 
-### 데이터 분석 대시보드
-> 데이터 시각화 웹 애플리케이션
-- 기술 스택: Python, Pandas, Plotly, Dash
-- 구현 내용: 다양한 데이터셋을 분석하고 인터랙티브한 시각화를 제공하는 대시보드
-- [Repository Link]()
-
-### 추천 시스템
-> 협업 필터링 기반 추천 알고리즘
-- 기술 스택: Python, scikit-learn, Surprise
-- 구현 내용: 사용자 행동 데이터를 기반으로 한 개인화된 추천 시스템 개발
+### 머신러닝
+> 산불 발생 예측 시스템템
+- 기술 스택: Python, Pandas, Scikit-learn
+- 구현 내용: 기상데이터와 인구 및 농지 데이터를 이용한 산불 발생 예측 시스템 개발
 - [Repository Link]()
 
 ## 🎓 교육
