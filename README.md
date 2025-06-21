@@ -33,7 +33,7 @@
 > 발표 자동화 시스템  
 - 기술 스택: Python, LangChain, FastAPI, ChromaDB, OpenAI, Google Gemini  
 - 구현 내용: PDF에서 텍스트와 이미지를 추출한 후, 페이지별로 발표 대본을 생성하고, 키워드 강조·음성 합성·질의응답까지 가능한 발표 자동화 시스템 구축  
-- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)\
+- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
 
 ### 원티드랩 AI 개발자 양성과정
 **기간**: 2024.12 – 2025.06  
@@ -41,7 +41,7 @@
 **내용**:  
 - 머신러닝, 딥러닝, 모델 서빙, 데이터 시각화 등 기초부터 실무형 프로젝트까지 경험  
 - 지도 기반 침수 예측 모델, LLM 응용 등 주제별 팀 프로젝트 수행
-- [Repository Link](https://github.com/Jacod97/Wanted_project)\
+[Repository Link](https://github.com/Jacod97/Wanted_project)
   
 ## 📫 Contact
 
