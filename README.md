@@ -23,12 +23,19 @@
 | Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-005570?style=flat-square&logo=postgis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | Tool | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white) |
 
+## 🎓 교육
 
-## 📊 GitHub Stats
+- 토목공학과 학사 - [동아대학교], [2022년 졸업]
+- [Wanted Potenup DATA AI 양성과정] - [Wanted], [2024.12~2025.06]
+
+## 📫 연락처
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jacod97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacod97&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wotlr6894@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacod97)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.notion.so/1dc0eb9e093580df8738ed33c1a5727d?v=1dc0eb9e09358174bf0a000c44587d07&pvs=4)
+
 </div>
 
 ## 🔥 주요 프로젝트
@@ -56,21 +63,6 @@
 - 기술 스택: Python, Pytorch, YOLO, OpenCV, Pandas  
 - 구현 내용: 아동이 그린 집·나무·사람 그림에서 객체를 감지하고, 위치·크기·구성 등 시각적 요소를 심리 해석 기준에 따라 분석하는 자동 진단 시스템 구축  
 - [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/HTP_analysis)
-
-## 🎓 교육
-
-- 토목공학과 학사 - [동아대학교], [2022년 졸업]
-- [Wanted Potenup DATA AI 양성과정] - [Wanted], [2024.12~2025.06]
-
-## 📫 연락처
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wotlr6894@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacod97)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.notion.so/1dc0eb9e093580df8738ed33c1a5727d?v=1dc0eb9e09358174bf0a000c44587d07&pvs=4)
-
-</div>
 
 ---
 
