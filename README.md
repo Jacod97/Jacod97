@@ -36,7 +36,7 @@
 - [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
 
 ### 원티드랩 DATA AI 개발자 양성과정
-> 인공지능 기본 개념을 시작으로, 생성형 모델 등 최신 트렌드 모델을 활용한 교육  
+인공지능 기본 개념을 시작으로, 생성형 모델 등 최신 트렌드 모델을 활용한 교육  
 **기간**: 2024.12 – 2025.06  
 **내용**:  
 - 인공지능(AI)을 위한 파이썬 기초 및 데이터 분석  
