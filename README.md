@@ -1,16 +1,17 @@
 # 안녕하세요, ML Engineer/Data Scientist 정재식입니다! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=700&lines=%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8+%EC%84%B1%EC%9E%A5%EC%9D%84+%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94+%C2%B7+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B8%B0%EB%B0%98+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%C2%B7+%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%97%90+%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80;ML+Engineer+%2F+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8+%EC%84%B1%EC%9E%A5%EC%9D%84+%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B8%B0%EB%B0%98+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%97%90+%EB%8C%80%ED%95%9C+%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80;ML+Engineer+%2F+Data+Scientist" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me
 
--  AI와 데이터에 열정을 가진 개발자
--  데이터를 통해 실제 세계의 문제를 해결하는 것을 추구합니다
--  데이터 과학과 머신러닝 모델 개발에 관심이 있습니다
--  현재 PyTorch와 딥러닝 모델 최적화 기법에 대해 배우고 있습니다
--  컴퓨터 비전과 자연어 처리 분야에서 공동 작업 기회를 찾고 있습니다
+- 공간 데이터, 빅테이터, 인공지능 기술 전반에 대한 이해
+- Pandas, GeoPandas, Numpy를 이용한 데이터 EDA 및 ETL
+- Scikit-learn, Pytorch 등을 통한 딥러닝 모델링
+- FastAPI를 이용한 모델 서빙 경험
+- PostgreSQL(PostGIS)기반 공간 데이터베이스 관리 경험
+- 설계 업무를 통해 다양한 직군의 관계자들과 효과적으로 소통하고 협업할 수 있는 커뮤니케이션 능력
 
 ## 🛠️ Tech Stack
 
