@@ -29,11 +29,16 @@
 
 ## Side Project
 
-### DACON 대회 참관  
-> 발표 자동화 시스템  
-- 기술 스택: Python, LangChain, FastAPI, ChromaDB, OpenAI, Google Gemini  
-- 구현 내용: PDF에서 텍스트와 이미지를 추출한 후, 페이지별로 발표 대본을 생성하고, 키워드 강조·음성 합성·질의응답까지 가능한 발표 자동화 시스템 구축  
-- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
+###  DACON 대회 참관
+AI 경진대회를 실전 학습의 도구로 삼아, 상위권 솔루션 분석을 통해 모델링 전략과 데이터 처리 방식에 대한 이해를 넓힘  
+**기간**: 2025.02 ~ [진행중]  
+**내용**:  
+- 머신러닝 기반 시계열·표형 데이터 경진대회를 중심으로 코드 구조와 접근 방식 분석  
+- 상위 입상자들이 선택한 모델링 전략, 전처리 기법, 하이퍼파라미터 튜닝 흐름을 학습  
+- 개인 프로젝트에 참고할 수 있도록 기술 스택과 성능 개선 아이디어 정리  
+- 실전 데이터를 활용한 문제 해결 관점과 실무형 코딩 패턴 습득 
+
+> 📌 **자세한 사항은 [Project Link](https://github.com/Jacod97/DACON_Project) 참고**
 
 ### 원티드랩 DATA AI 개발자 양성과정
 인공지능 기본 개념을 시작으로, 생성형 모델 등 최신 트렌드 모델을 활용한 교육  
