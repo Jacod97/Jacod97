@@ -30,12 +30,9 @@
 
 ## 📫 연락처
 
-<div align="center">
-
-<a href="mailto:jacode6894@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>  
-<br>
+<p>
+Email : <a href="mailto:jacode6894@gmail.com">jacode6894@gmail.com</a>
+</p>
 
 <a href="https://github.com/Jacod97">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -45,8 +42,6 @@
 <a href="https://www.notion.so/1dc0eb9e093580df8738ed33c1a5727d?v=1dc0eb9e09358174bf0a000c44587d07&pvs=4">
   <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
 </a>
-
-</div>
 
 ## 🔥 주요 프로젝트
 
