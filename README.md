@@ -23,37 +23,27 @@
 | Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-005570?style=flat-square&logo=postgis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | Tool | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white) |
 
-## 🎓 교육
+## 🎓 Education
 
 - 토목공학과 학사 - [동아대학교], [2022년 졸업]
-- [Wanted Potenup DATA AI 양성과정] - [Wanted], [2024.12~2025.06]
 
-## 🔥 주요 프로젝트
+## Side Project
 
-### LLM + 멀티모달  
+### DACON 대회 참관  
 > 발표 자동화 시스템  
 - 기술 스택: Python, LangChain, FastAPI, ChromaDB, OpenAI, Google Gemini  
 - 구현 내용: PDF에서 텍스트와 이미지를 추출한 후, 페이지별로 발표 대본을 생성하고, 키워드 강조·음성 합성·질의응답까지 가능한 발표 자동화 시스템 구축  
-- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
+- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)\
 
-### LLM + RAG 기반 사고 대응 시스템  
-> 건설공사 사고 대응 문구 자동 생성 시스템  
-- 기술 스택: Python, LangChain, SentenceTransformer, FAISS, Ollama
-- 구현 내용: 건설공사 사고 데이터를 기반으로 사고 원인을 분석하고, 유사 사고 사례를 검색하여 대응 문구를 자동 생성하는 RAG 기반 LLM 시스템 구축. GPU 가속화 및 대규모 배치 임베딩 처리로 효율성 향상.  
-- [Repository Link](https://github.com/Jacod97/DACON_Project/tree/main/DACON_Accident_Prevention)
-
-### 머신러닝  
-> 산불 발생 예측 시스템  
-- 기술 스택: Python, Pandas, Scikit-learn  
-- 구현 내용: 기상 정보, 인구 밀도, 농지 면적 데이터를 기반으로 산불 위험도를 예측하는 지도학습 기반 모델 개발  
-- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Predict_fire_forest)
-
-### 컴퓨터 비전 + Rule기반 분석  
-> 아동 미술 심리 분석 시스템 (HTP 기반)  
-- 기술 스택: Python, Pytorch, YOLO, OpenCV, Pandas  
-- 구현 내용: 아동이 그린 집·나무·사람 그림에서 객체를 감지하고, 위치·크기·구성 등 시각적 요소를 심리 해석 기준에 따라 분석하는 자동 진단 시스템 구축  
-- [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/HTP_analysis)
-## 📫 연락처
+### 원티드랩 AI 개발자 양성과정
+**기간**: 2024.12 – 2025.06  
+**형태**: 국비 교육과정 수료    
+**내용**:  
+- 머신러닝, 딥러닝, 모델 서빙, 데이터 시각화 등 기초부터 실무형 프로젝트까지 경험  
+- 지도 기반 침수 예측 모델, LLM 응용 등 주제별 팀 프로젝트 수행
+- [Repository Link](https://github.com/Jacod97/Wanted_project)\
+  
+## 📫 Contact
 
 <div align="center">
 
