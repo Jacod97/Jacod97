@@ -20,22 +20,22 @@
 
 ### Library / Framework  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+[scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+[LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white)  
+[FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Environment  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Database  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![PostGIS](https://img.shields.io/badge/PostGIS-005570?style=flat-square&logo=postgis&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+[PostGIS](https://img.shields.io/badge/PostGIS-005570?style=flat-square&logo=postgis&logoColor=white)  
+[SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Tool  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white)
+[Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+[QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)  
+[ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white)
 
 
 ## 📊 GitHub Stats
