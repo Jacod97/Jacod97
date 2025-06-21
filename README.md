@@ -28,30 +28,6 @@
 - 토목공학과 학사 - [동아대학교], [2022년 졸업]
 - [Wanted Potenup DATA AI 양성과정] - [Wanted], [2024.12~2025.06]
 
-## 📫 연락처
-
-<p>
-Email : 
-<a href="mailto:jacode6894@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-(jacode6894@gmail.com)
-</p>
-
-<p>
-LinkedIn : 
-<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%8B%9D-%EC%A0%95-a138a8367/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
-<p>
-Blog : 
-<a href="https://www.notion.so/1dc0eb9e093580df8738ed33c1a5727d?v=1dc0eb9e09358174bf0a000c44587d07&pvs=4">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog" />
-</a>
-</p>
-
 ## 🔥 주요 프로젝트
 
 ### LLM + 멀티모달  
@@ -79,7 +55,24 @@ Blog :
 - [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/HTP_analysis)
 
 ---
+## 📫 연락처
 
+<div align="center">
+
+  <a href="mailto:jacode6894@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%8B%9D-%EC%A0%95-a138a8367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.notion.so/1dc0eb9e093580df8738ed33c1a5727d?v=1dc0eb9e09358174bf0a000c44587d07&pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog" />
+  </a>
+
+</div>
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jacod97&color=brightgreen" alt="Profile views" />
   <br>
