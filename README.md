@@ -53,8 +53,6 @@
 - 기술 스택: Python, Pytorch, YOLO, OpenCV, Pandas  
 - 구현 내용: 아동이 그린 집·나무·사람 그림에서 객체를 감지하고, 위치·크기·구성 등 시각적 요소를 심리 해석 기준에 따라 분석하는 자동 진단 시스템 구축  
 - [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/HTP_analysis)
-
----
 ## 📫 연락처
 
 <div align="center">
