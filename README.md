@@ -1,7 +1,7 @@
-# 안녕하세요, ML Engineer/Data Scientist 정재식입니다! 👋
+# 안녕하세요, ML Engineer/Data Scientist 정재식입니다! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=AI+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%2F+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B8%B0%EB%B0%98+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%97%90+%EB%8C%80%ED%95%9C+%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%95%84%EC%9A%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8+%EC%84%B1%EC%9E%A5%EC%9D%84+%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B8%B0%EB%B0%98+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%97%90+%EB%8C%80%ED%95%9C+%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80;ML+Engineer+%2F+Data+Scientist" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me
