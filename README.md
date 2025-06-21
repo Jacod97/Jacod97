@@ -44,7 +44,9 @@
 - 딥러닝의 이해 및 딥러닝 모델 생성
 - LLM의 이해 및 LLM 실전 활용
 - AI와 XR(언리얼)의 융합 프로젝트  
-자세한 사항은 [Project Link](https://github.com/Jacod97/Wanted_project) 참고
+<span style="background-color: #f0f0f0; padding: 4px 8px; border-radius: 4px;">
+🔗 <strong><a href="https://github.com/Jacod97/Wanted_project">Project Link</a></strong> 참고
+</span>
 
 ## 📫 Contact
 
