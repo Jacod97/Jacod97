@@ -36,15 +36,15 @@
 - [Repository Link](https://github.com/Jacod97/Wanted_project/tree/main/Presentation_Agent)
 
 ### 원티드랩 AI 개발자 양성과정
-> 인공지능 기본 개념을 시작으로, 생성형 모델 등 최신 트렌드 모델을 활용한 교육
+> 인공지능 기본 개념을 시작으로, 생성형 모델 등 최신 트렌드 모델을 활용한 교육  
 **기간**: 2024.12 – 2025.06 
 **내용**:  
 - 인공지능(AI)을 위한 파이썬 기초 및 데이터 분석
 - 머신러닝(ML)을 활용한 서비스 구축
 - 딥러닝의 이해 및 딥러닝 모델 생성
 - LLM의 이해 및 LLM 실전 활용
-- AI와 XR(언리얼)의 융합 프로젝트
-- 자세한 사항은 [Project Link](https://github.com/Jacod97/Wanted_project) 참고
+- AI와 XR(언리얼)의 융합 프로젝트  
+자세한 사항은 [Project Link](https://github.com/Jacod97/Wanted_project) 참고
 
 ## 📫 Contact
 
