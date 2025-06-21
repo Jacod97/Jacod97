@@ -41,7 +41,7 @@
 **내용**:  
 - 머신러닝, 딥러닝, 모델 서빙, 데이터 시각화 등 기초부터 실무형 프로젝트까지 경험  
 - 지도 기반 침수 예측 모델, LLM 응용 등 주제별 팀 프로젝트 수행
-[Repository Link](https://github.com/Jacod97/Wanted_project)
+**프로젝트**: [Project Link](https://github.com/Jacod97/Wanted_project)
   
 ## 📫 Contact
 
