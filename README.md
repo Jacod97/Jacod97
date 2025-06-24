@@ -27,6 +27,8 @@
 
 - 토목공학과 학사 - [동아대학교], [2022년 졸업]
 
+## 🎞️ Experience
+
 ## 🚀 Side Project
 
 ### 1. DACON 대회 참관
